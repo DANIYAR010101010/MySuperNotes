@@ -1,4 +1,4 @@
-package com.io.muhsin.mysupernotes.ui.theme
+package com.io.muhsin.mysupernotes.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
